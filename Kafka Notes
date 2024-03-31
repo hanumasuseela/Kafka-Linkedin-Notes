@@ -1,0 +1,8 @@
+Apache Kafka was developed by Linkedin as Open Source Project.
+Essentially, Apache Kafka is basically a transportation between Source and Destination. This is used for Loose Coupling as the data of any format can be sent.
+Kafka as of now can be managed in two ways
+a.ZooKeeper
+b.Kafka craft mode
+
+Kafka Theory 
+Kafka cluster - no limit in topics
